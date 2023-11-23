@@ -36,7 +36,7 @@
 		1D80C29D2B0A6D790006973A /* FlowerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowerData.swift; sourceTree = "<group>"; };
 		1D80C29F2B0A6E910006973A /* FlowerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowerViewModel.swift; sourceTree = "<group>"; };
 		1D80C2A32B0B7C570006973A /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
-		1DC8B2A92B0FD02A00EE92BF /* PlantMLModelv1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = PlantMLModelv1.mlmodel; path = ../../../../../plantAI/PlantMLModelv1.mlmodel; sourceTree = "<group>"; };
+		1DC8B2A92B0FD02A00EE92BF /* PlantMLModelv1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = PlantMLModelv1.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
