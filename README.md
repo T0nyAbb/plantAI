@@ -7,15 +7,11 @@ plantAI is an app that uses AI to identify flowers instanty, with a custom machi
 
 ## Screenshots
 
-Insert screenshots or GIFs showcasing different aspects of your app. You can use the following template for each screenshot:
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
+| Main Screen                                                                                               | Identification Screen                                                   |
+| ----------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- |
+| ![Screenshot 1](https://github.com/T0nyAbb/plantAI/assets/120809118/d1862185-4d04-4ed2-8ce1-e51716417726) | ![Screenshot 2](https://github.com/T0nyAbb/plantAI/assets/120809118/0a4aad9c-baf6-4928-bdd3-3015741c1d97) |
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
-
-<!-- Add more screenshots as needed -->
 
 ## Features
 
@@ -23,3 +19,6 @@ Insert screenshots or GIFs showcasing different aspects of your app. You can use
 - **Fast recognition:** in a matter of seconds the app will identify the flower and provide general info about it.
 - **Works offline:** an internet connection is not required to scan an image.
 
+## Credits
+
+App and ML model developed for educational purposes by https://github.com/T0nyAbb
