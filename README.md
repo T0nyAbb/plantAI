@@ -8,9 +8,9 @@ plantAI is an app that uses AI to identify flowers instanty. With a custom machi
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/T0nyAbb/plantAI/assets/120809118/d1862185-4d04-4ed2-8ce1-e51716417726" width="49%" />
+  <img src="https://github.com/T0nyAbb/plantAI/assets/120809118/d1862185-4d04-4ed2-8ce1-e51716417726" width="48%" />
   &nbsp;
-  <img src="https://github.com/T0nyAbb/plantAI/assets/120809118/0a4aad9c-baf6-4928-bdd3-3015741c1d97" width="49%" />
+  <img src="https://github.com/T0nyAbb/plantAI/assets/120809118/0a4aad9c-baf6-4928-bdd3-3015741c1d97" width="48%" />
 </p>
 
 
