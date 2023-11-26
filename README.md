@@ -3,7 +3,7 @@
 
 ## Description
 
-plantAI is an app that uses AI to identify flowers instanty. With a custom machine learning model seamlessly merged with a simple interface it makes the perfect companion for exploring the botanical world with ease.
+plantAI is an app that uses AI to identify flowers instantly. With a custom machine learning model seamlessly merged with a simple interface it makes the perfect companion for exploring the botanical world with ease.
 
 ## Screenshots
 
